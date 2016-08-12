@@ -19,6 +19,8 @@ class ocs {
 	 * See: ocs::__contruct() for more details
 	 */
 	const OCS_OWNCLOUD = 'ocs/v1.php/cloud';
+        const OCS_OWNCLOUD_FILE_SHARING = 'ocs/v1.php/apps/files_sharing/api/v1/shares';
+
 	/**
 	 * Definition for Method types
 	 */
